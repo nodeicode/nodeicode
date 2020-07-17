@@ -1,6 +1,9 @@
-### Hi there 👋
-🌱 I’m currently learning Django and Kubernetes!
-
+### Hi There 👋
+⚡ I am a enthusiatic Software Developer with a wide range of skills. I love creating fun apps and learning new Frameworks!<br/>
+🌱 I’m currently learning Django and Kubernetes! <br/>
+💬 Ask me about anything Javascript<br/>
+Currently Looking for Fall 2020 Internships and Full time Oppourtunites.<br/>
+I always love a challenge and contrinuting to the community you can contact me through my email: lgopik2@uic.edu <br/>
 <!--
 **nodeicode/nodeicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
