@@ -1,5 +1,5 @@
 ### Hi There 👋
-⚡ I am a enthusiatic Software Developer with a wide range of skills. I love creating fun apps and learning new Frameworks!<br/>
+⚡ I'm a enthusiatic Software Developer with a wide range of skills. I love creating fun apps and learning new Frameworks!<br/>
 🌱 I’m currently learning Django and Kubernetes! <br/>
 💬 Ask me about anything Javascript<br/>
 Currently Looking for Fall 2020 Internships and Full time Oppourtunites.<br/>
