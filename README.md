@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning Django and Kubernetes!
+![Visitor Count](https://profile-counter.glitch.me/nodeicode/count.svg)
 <!--
 **nodeicode/nodeicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
