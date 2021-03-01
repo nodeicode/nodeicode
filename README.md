@@ -1,15 +1,17 @@
 ### Hi There 👋
 ⚡ I'm a enthusiatic Software Developer with a wide range of skills. I love creating fun apps and learning new Frameworks!<br/>
-🌱 I’m currently learning Django and Kubernetes! <br/>
-💬 Ask me about anything Javascript<br/>
-Currently Looking for Full time Oppourtunites! <br/>
-I always love a challenge and contributing to the community you can contact me through my email: lohitaryan20@gmail.com <br/>
+🌱 I’m currently learning Neural Networks and Kubernetes! <br/>
+🔭 I’m currently working on building a web app around a Neural netowrk pipeline<br/>
+💬 Ask me about anything tech/development honestly<br/>
+Currently Looking for Software Developer Full time Oppourtunites! <br/>
+I always love a challenge and contributing to the community
+📫 Best way to reach me is through my email: lohitaryan20@gmail.com<br/>
 <!--
 **nodeicode/nodeicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
