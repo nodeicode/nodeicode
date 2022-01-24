@@ -3,12 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-lohitaryan20-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lohitaryan20@gmail.com)](mailto:lohitaryan20@gmail.com)
 </br>
 ⚡ I'm a enthusiatic Software Developer with a wide range of skills. I like creating fun apps and would love to [connect](https://www.linkedin.com/in/lohit-aryan/)<br/>
-🌱 I’m currently learning Neural Networks and Kubernetes! <br/>
-🔭 I’m currently working on building a web app around a Neural netowrk pipeline<br/>
+🌱 I’m currently working as software engineer at [zoominfo](https://www.zoominfo.com/) <br/>
 💬 Ask me about anything tech/development honestly<br/>
-Currently Looking for Software Developer Full time Oppourtunites! <br/>
 I always love a challenge and contributing to the community <br/>
-⚡ Check out my [portfolio](https://lohitaryan.now.sh) 
 <!--
 **nodeicode/nodeicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
