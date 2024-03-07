@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-lohitaryan20-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lohitaryan20@gmail.com)](mailto:lohitaryan20@gmail.com)
 </br>
 ⚡ I'm a enthusiatic Software Developer with a wide range of skills. I like creating fun apps and would love to [connect](https://www.linkedin.com/in/lohit-aryan/)<br/>
-🌱 I’m currently working as software engineer at [zoominfo](https://www.zoominfo.com/) <br/>
+🌱 I’m currently a graduate student at University of Maryland College Park! ex-software engineer at [zoominfo](https://www.zoominfo.com/) <br/>
 💬 Ask me about anything tech/development honestly<br/>
 I always love a challenge and contributing to the community <br/>
 <!--
